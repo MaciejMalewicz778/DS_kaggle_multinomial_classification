@@ -1,1 +1,1 @@
-# DS_kaggle_binary_classification_2
+# DS_kaggle_multinomial_classification
